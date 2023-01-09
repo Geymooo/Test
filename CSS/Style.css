@@ -387,13 +387,13 @@ div.port {
         height: 400px;
         width: 150px;
         font-size: 10px;
-        padding: auto;
+        padding: 10px;
         text-align: justify;
         }
     
         div.image {
         width: 100px;
-        padding: 20px;
+        padding: 10px;
         }
         
         .hero-text-2 h1 {
@@ -407,7 +407,7 @@ div.port {
         }
     
         div.description p {
-        font-size: 15px;
+        font-size: 10px;
         }
     
         div.title-1 {
