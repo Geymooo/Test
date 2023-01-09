@@ -423,6 +423,10 @@ div.port {
         padding-top: 40px;
         padding-bottom: 20px;
         }
+        
+        div.box {
+        overflow: hidden;
+        }
     
         div.sosmed {
         padding-top: 80px;
