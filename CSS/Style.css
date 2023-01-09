@@ -425,7 +425,7 @@ div.port {
         }
         
         div.box {
-        overflow: hidden;
+        display: none;
         }
     
         div.sosmed {
