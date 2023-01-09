@@ -405,7 +405,7 @@ div.port {
         
         .hero-image-2 {
         height: 500px;
-        margin-top: 800px;
+        margin-top: 500px;
         }
     
         div.description p {
@@ -416,8 +416,8 @@ div.port {
         }
     
         div.title-1 {
-        padding-top: 90px;
-        padding-bottom: 40px;
+        padding-top: 40px;
+        padding-bottom: 20px;
         }
     
         div.sosmed {
@@ -456,6 +456,6 @@ div.port {
         }
     
         div.port {
-        margin-top: 740px;
+        margin-top: 500px;
         }
 }
