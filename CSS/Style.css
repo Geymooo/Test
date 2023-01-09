@@ -371,7 +371,7 @@ div.port {
         }
     
         h3 {
-        font-size: 30px; 
+        font-size: 15px; 
         padding-bottom: 40px;
         }
     
@@ -401,10 +401,6 @@ div.port {
         .hero-text-2 h1 {
         font-size: 100px;
         margin-top: 125px;
-        }
-    
-        .hero-text-2 h3 {
-        font-size: 50px;
         }
         
         .hero-image-2 {
