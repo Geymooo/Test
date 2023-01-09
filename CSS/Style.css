@@ -384,8 +384,8 @@ div.port {
         }
     
         div.description {
-        height: 200px;
-        width: 500px;
+        height: 100px;
+        width: 150px;
         font-size: 10px;
         padding: auto;
         text-align: justify;
