@@ -356,6 +356,10 @@ div.port {
 
 @media only screen and (max-width: 620px) {
     /* For mobile phones: */
+    nav {
+        position: sticky;
+    }
+    
     li a {
         font-size: Small;
         }
