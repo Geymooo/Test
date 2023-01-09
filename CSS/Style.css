@@ -356,17 +356,17 @@ div.port {
 
 @media only screen and (max-width: 620px) {
     /* For mobile phones: */
-    nav {
+        nav {
         position: sticky;
-    }
+        }
     
-    li a {
+        li a {
         font-size: Small;
         }
     
         h1 {
         font-size: 100px;
-      }
+        }
       
         h2 {
         font-size: 15px; 
@@ -375,7 +375,7 @@ div.port {
         }
     
         h3 {
-        font-size: 35px; 
+        font-size: 20px; 
         padding-bottom: 40px;
         }
     
@@ -403,12 +403,12 @@ div.port {
         }
         
         .hero-text-2 h1 {
-        font-size: 100px;
-        margin-top: 125px;
+        font-size: 75px;
+        margin-top: 55px;
         }
         
         .hero-image-2 {
-        height: 500px;
+        height: 275px;
         margin-top: 500px;
         }
     
