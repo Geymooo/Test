@@ -357,11 +357,11 @@ div.port {
 @media only screen and (max-width: 620px) {
     /* For mobile phones: */
     li a {
-        font-size: small;
+        font-size: medium;
         }
     
         h1 {
-        font-size: small;
+        font-size: medium;
       }
       
         h2 {
