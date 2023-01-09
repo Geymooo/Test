@@ -389,11 +389,13 @@ div.port {
         font-size: 10px;
         padding: 5px;
         text-align: justify;
+        left: 50px;
         }
     
         div.image {
         width: 100px;
         padding: 5px;
+        right: 50px;
         }
         
         .hero-text-2 h1 {
