@@ -144,6 +144,10 @@ div.image {
     margin-bottom: 50px;
 }
 
+.full-view {
+    margin-top: 10px;
+}
+
 div.gallery {
     border-radius: 20px;
     width: auto;
@@ -424,6 +428,10 @@ div.port {
         padding-bottom: 20px;
         }
         
+        .full-view {
+        display: none;
+        }
+    
         div.box {
         display: none;
         }
