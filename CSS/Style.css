@@ -413,7 +413,7 @@ div.port {
         
         .hero-image-2 {
         height: 275px;
-        margin-top: 535px;
+        margin-top: 540px;
         }
     
         div.description p {
@@ -424,7 +424,7 @@ div.port {
         }
     
         div.title-1 {
-        padding-top: 50px;
+        padding-top: 55px;
         padding-bottom: 20px;
         }
         
@@ -447,17 +447,17 @@ div.port {
         }    
     
         .column h1 {
-        font-size: 15px;
+        font-size: 13px;
         margin-top: 5px;
         margin-bottom: 15px;
         }
     
         .column p {
-        font-size: 15px;
+        font-size: 13px;
         }
     
         .column img {
-        width: 70px;
+        width: 65px;
         border-radius: 100%;
         border: 3px solid #d53737;
         }
@@ -472,6 +472,6 @@ div.port {
         }
     
         div.port {
-        margin-top: 495px;
+        margin-top: 500px;
         }
 }
