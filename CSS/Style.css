@@ -379,7 +379,7 @@ div.port {
         }
     
         h3 {
-        font-size: 20px; 
+        font-size: 15px; 
         padding-bottom: 40px;
         }
     
@@ -413,7 +413,7 @@ div.port {
         
         .hero-image-2 {
         height: 275px;
-        margin-top: 500px;
+        margin-top: 525px;
         }
     
         div.description p {
@@ -437,34 +437,34 @@ div.port {
         }
     
         div.sosmed {
-        padding-top: 80px;
-        padding-bottom: 50px;
-        margin-top: 20px;
+        padding-top: 40px;
+        padding-bottom: 0px;
+        margin-top: 10px;
         }
     
         div.sosmed h1{
-        font-size: 125px;
+        font-size: 50px;
         }    
     
         .column h1 {
-        font-size: 50px;
-        margin-top: 15px;
-        margin-bottom: 25px;
+        font-size: 15px;
+        margin-top: 5px;
+        margin-bottom: 15px;
         }
     
         .column p {
-        font-size: 43px;
+        font-size: 15px;
         }
     
         .column img {
-        width: 350px;
+        width: 75px;
         border-radius: 100%;
-        border: 10px solid #d53737;
+        border: 3px solid #d53737;
         }
     
         .hero-image-3 {
-        margin-top: 650px;
-        height: 250px;
+        margin-top: 265px;
+        height: 150px;
         }
     
         .hero-image-3 h3 {
@@ -472,6 +472,6 @@ div.port {
         }
     
         div.port {
-        margin-top: 500px;
+        margin-top: 475px;
         }
 }
