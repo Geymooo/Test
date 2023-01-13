@@ -388,7 +388,7 @@ div.port {
         }
     
         div.hero-image {
-        height: 550px;
+        height: 575px;
         }
     
         div.description {
@@ -415,7 +415,7 @@ div.port {
         
         .hero-image-2 {
         height: 275px;
-        margin-top: 100px;
+        margin-top: 130px;
         }
     
         div.description p {
@@ -426,8 +426,8 @@ div.port {
         }
     
         div.title-1 {
-        padding-top: 60px;
-        padding-bottom: 20px;
+        padding-top: 90px;
+        padding-bottom: 25px;
         }
         
         .full-view {
@@ -474,6 +474,6 @@ div.port {
         }
     
         div.port {
-        margin-top: 70px;
+        margin-top: 80px;
         }
 }
