@@ -1,0 +1,174 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #001f3f;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+.site-title h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+nav {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 35px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+main {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.about {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-logo img {
+    height: 320px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.about-text p {
+    font-size: 15px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.about-text h1 {
+    font-size: 45px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.vision-mission {
+    margin: 20px auto;
+    background-color: #001f3f;
+    color: white;
+    padding: 20px;
+    border-radius: 0px;
+}
+
+.vm-container {
+    margin: 0 auto;
+    max-width: 800px;
+    display: flex;
+    align-items: flex-start;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.buttons button {
+    background-color: #001f3f;
+    color: white;
+    border: none;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.buttons button.active {
+    background-color: white;
+    color: #001f3f;
+}
+
+.content p {
+    padding-left: 40px;
+    text-align: justify;
+}
+
+.content li {
+    text-align: justify;
+}
+
+.content {
+    flex-grow: 1;
+}
+
+.content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.history {
+    max-width: 800px;
+    margin: 40px auto;
+    text-align: left;
+}
+
+.history h2 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.history-content p {
+    color: #001f3f;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+footer {
+    background-color: #001f3f;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
